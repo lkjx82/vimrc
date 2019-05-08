@@ -497,6 +497,7 @@ let g:ycm_filetype_whitelist = {
             \ "js":1,
             \ "cpp":1,
             \ "cxx":1,
+            \ "cc":1,
             \ "go":1,
             \ "python":1,
             \ "sh":1,
